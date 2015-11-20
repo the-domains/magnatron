@@ -1,0 +1,28 @@
+name: magnatron
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.12139482097700238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.625
+  lightness: 0.6736662692856044
+  saturation: 0.5091376784257591
+  rhythmicContrast: 0.08802063413895667
+purpose: []
